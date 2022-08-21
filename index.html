@@ -11,7 +11,7 @@
 <body>
     <center>
         <div class="div1" id="div1">
-            <div style=" padding-bottom: 1.25%;"><a href="" style="text-decoration: none; font-weight: lighter; font-size: 400%;">News Around Caucasus</a></div>
+            <div id="divtitle" class="divtitle" style=" padding-bottom: 1.25%;"><a href="" style="text-decoration: none; font-size: 500%; color: black;">News Around Caucasus</a></div>
             <div class="div2" id="div2" style="text-align: left; border: 1px solid black;"></div><!--aq-->
         </div>
     </center>
@@ -27,7 +27,23 @@
 </html>
 
 <style>
+@font-face {
+  font-family: title;
+  src: url(fonts/NewsflashBB.ttf);
+}
 
+@font-face {
+  font-family: text-content;
+  src: url(fonts/Deutschlander.otf);
+}
+
+.divtitle{
+    font-family: title;
+}
+
+.div2{
+    font-family: text-content;
+}
 
 @media screen and (min-device-width : 768px) and (max-device-width : 2000px){
 .div2 { 

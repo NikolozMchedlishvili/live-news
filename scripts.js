@@ -1,12 +1,12 @@
 
 
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Azerbaijan deploys army in city of Lachin in Karabakh, retakes control of Zabukh, Sus villages, says president  1 day ago - Liveuamap</a></ul></li></div>';
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Azerbaijan deploys army in city of Lachin in Karabakh, retakes control of Zabukh, Sus villages, says president  3 day ago - Liveuamap</a></ul></li></div>';
 
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">The Azerbaijani army hoisted a flag over the building of the administration of the city of Lachin  1 day ago - Liveuamap</a></ul></li></div>';
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">The Azerbaijani army hoisted a flag over the building of the administration of the city of Lachin  3 day ago - Liveuamap</a></ul></li></div>';
 
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">President Ilham Aliyev: "Today, on August 26, we - Azerbaijanis returned to the city of Lachin, took control over Zabukh and Sus villages"  1 day ago - Liveuamap</a></ul></li></div>';
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">President Ilham Aliyev: "Today, on August 26, we - Azerbaijanis returned to the city of Lachin, took control over Zabukh and Sus villages"  3 day ago - Liveuamap</a></ul></li></div>';
 
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">The speeches of Azerbaijani President Aliyev and Kazakh President Tokayev in Turkish dialects during their meeting in Baku drew attention today.  2 day ago - Liveuamap</a></ul></li></div>';
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">The speeches of Azerbaijani President Aliyev and Kazakh President Tokayev in Turkish dialects during their meeting in Baku drew attention today.  5 day ago - Liveuamap</a></ul></li></div>';
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">The Azerbaijani Forces started engineering work and fortifying their positions on the surrendered and strategic mount sartsasar and several other strategic heights in Nagorny Karabakh  2 week ago - Liveuamap</a></ul></li></div>';
 
@@ -28,9 +28,9 @@ document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-typ
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Polish OSCE Chairmanship: We are extremely concerned about reported armed incidents and casualties in the South Caucasus. We urge Armenia and Azerbaijan to take all necessary measures to bring de-escalation and resume dialogue. We remain committed to support all efforts aimed at consolidating peace in the region  3 week ago - Liveuamap</a></ul></li></div>';
 
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Russia successfully cooperates with Armenia amid anti-Russian sanctions - Mishustin at a meeting with Nikol Pashinyan in Cholpan-Ata  1 day ago - Liveuamap</a></ul></li></div>';
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Russia successfully cooperates with Armenia amid anti-Russian sanctions - Mishustin at a meeting with Nikol Pashinyan in Cholpan-Ata  4 day ago - Liveuamap</a></ul></li></div>';
 
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Putin and Pashinyan discussed situation in Nagorny Karabakh in a phone call  3 day ago - Liveuamap</a></ul></li></div>';
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Putin and Pashinyan discussed situation in Nagorny Karabakh in a phone call  5 day ago - Liveuamap</a></ul></li></div>';
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Putin at meeting with Tokayev: Defense Ministries of Russia and Kazakhstan are preparing joint exercises within the framework of the CSTO  1 week ago - Liveuamap</a></ul></li></div>';
 
@@ -40,13 +40,13 @@ document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-typ
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Russia accuses Azerbaijan of violating ceasefire in Nagorno-Karabakh  3 week ago - Liveuamap</a></ul></li></div>';
 
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">A section of the Khankendi/Stepanakert-Berdzor-Goris road linking Nagorno-Karabakh with Armenia will be open until August 31- Nagorno-Karabakh authorities  1 day ago - Liveuamap</a></ul></li></div>';
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">A section of the Khankendi/Stepanakert-Berdzor-Goris road linking Nagorno-Karabakh with Armenia will be open until August 31- Nagorno-Karabakh authorities  3 day ago - Liveuamap</a></ul></li></div>';
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">16 bodies found at the market that was destroyed in fire in Yerevan  1 week ago - Liveuamap</a></ul></li></div>';
 
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">The Armenian Ministry of Emergency Situations reports that as a result of an explosion and a fire in a shopping center in Yerevan, one person died, 20 were injured  1 week ago - Liveuamap</a></ul></li></div>';
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">The Armenian Ministry of Emergency Situations reports that as a result of an explosion and a fire in a shopping center in Yerevan, one person died, 20 were injured  2 week ago - Liveuamap</a></ul></li></div>';
 
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Fire at Surmalu market in Yerevan  1 week ago - Liveuamap</a></ul></li></div>';
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Fire at Surmalu market in Yerevan  2 week ago - Liveuamap</a></ul></li></div>';
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Nagorny Karabakh army: 2 soldiers wounded  2 week ago - Liveuamap</a></ul></li></div>';
 
@@ -58,6 +58,8 @@ document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-typ
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Armenia files third interstate complaint against Azerbaijan to the European Court of Human Rights (ECHR). The complaint refers to the violation of the rights of the civilians as a result of the aggression undertaken by Azerbaijan against the villages of Khramort & Parukh in Nagorny Karabakh  3 week ago - Liveuamap</a></ul></li></div>';
 
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Germanys Scholz Backs EU Expansion To Include Western Balkans, As Center Of Europe Is Moving Eastwards. - Radio Free</a></ul></li></div>';
+
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Azerbaijani Forces Take Over Strategic Town Linking Armenia With Nagorno-Karabakh. - Radio Free</a></ul></li></div>';
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Leaders of Armenia, Azerbaijan To Hold EU-Mediated Talks. - Radio Free</a></ul></li></div>';
@@ -67,8 +69,6 @@ document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-typ
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Rescue Operations At Site Of Yerevan Market Blast End, One Person Still Missing. - Radio Free</a></ul></li></div>';
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Senior Armenian, Azerbaijani Officials Meet In Brussels. - Radio Free</a></ul></li></div>';
-
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Armenia Mourns Victims Of Yerevan Market Explosion As Search For Survivors Continues. - Radio Free</a></ul></li></div>';
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Azerbaijani Official Fired, Charged Over Leaked Sex Video. - Radio Free</a></ul></li></div>';
 

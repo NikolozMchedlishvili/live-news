@@ -1,6 +1,6 @@
 
 
-document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Azerbaijan deploys army in city of Lachin in Karabakh, retakes control of Zabukh, Sus villages, says president  3 day ago - Liveuamap</a></ul></li><ul><!--<img src="img/91ae5688b9a24683aa57549f5aab7413bffd7c70ac362a02238a3f80378169d0.jpeg" alt="Image not loading" class="responsive"-->></ul></div>';
+document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">Azerbaijan deploys army in city of Lachin in Karabakh, retakes control of Zabukh, Sus villages, says president  3 day ago - Liveuamap</a></ul></li><!--<ul><img src="img/91ae5688b9a24683aa57549f5aab7413bffd7c70ac362a02238a3f80378169d0.jpeg" alt="Image not loading" class="responsive"></ul>--></div>';
 
 document.getElementById('div2').innerHTML += '<div><ul><li style="list-style-type: square;"><a href="" style="padding-top: 3%; text-decoration: none; font-size: 220%; color: black;">The Azerbaijani army hoisted a flag over the building of the administration of the city of Lachin  3 day ago - Liveuamap</a></ul></li></div>';
 
